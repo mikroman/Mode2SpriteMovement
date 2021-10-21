@@ -1,0 +1,3 @@
+OSCLI "LOAD MASK 900" 
+COLOUR 128 : REM Change to any background colour you wish (values from 128 to 135) 
+OSCLI "RUN SpriteP" 
