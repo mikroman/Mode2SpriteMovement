@@ -9,6 +9,7 @@
    // general
      
      .const ScreenStartHighByte = $30      // high value of start of screen  
+     //.align $100
      .const MaskTable = $900               // mask table address. A page aligned table of
                                          // of data to make masked sprite plotting quicker.
                                          // You must ensure this data is loaded into memory

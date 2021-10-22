@@ -1,4 +1,4 @@
-I have Kick converted the original .swift files for this. I am using this only for
+I have Kick converted the original .swift files for this example. I am using this only for
 the IRQ code, not the sprite routines.
 
 Below is text from the well-commented file "SpritePlotter.asm"
